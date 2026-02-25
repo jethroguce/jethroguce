@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding animation">
+
 # Hi, I'm Jeth
 
 Full-Stack Developer passionate about building clean, well-documented web applications. I follow TDD methodology and prefer TypeScript for its type safety and developer experience.
@@ -26,9 +28,13 @@ Full-Stack Developer passionate about building clean, well-documented web applic
 
 ## GitHub Stats
 
-![Jeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jethroguce&show_icons=true&theme=default)
+<a href="https://github.com/jethroguce">
+  <img src="./profile/stats.svg" alt="GitHub Stats">
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jethroguce&layout=compact&theme=default)
+<a href="https://github.com/jethroguce">
+  <img src="./profile/top-langs.svg" alt="Top Languages">
+</a>
 
 ---
 
